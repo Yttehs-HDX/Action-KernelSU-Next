@@ -28,8 +28,8 @@ jobs:
 
      - name: Configure Git
        run: |
-        git config --global user.name "wuua"
-        git config --global user.email "3436678798@qq.com"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
      - name: Clean up disk space
        run: |
