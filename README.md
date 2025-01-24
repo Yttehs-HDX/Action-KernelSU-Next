@@ -18,7 +18,7 @@ Forked from [Laomaoi/Action-KernelSU-Next](https://github.com/Laomaoi/Action-Ker
 
 4. Fill the table and run an action.
 
-Find your device from [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
+Find your device from [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest).
 
 > It will cost about 2 hours to complete (with **Github pro** enabled).
 
