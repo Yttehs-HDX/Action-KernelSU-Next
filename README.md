@@ -30,7 +30,7 @@ Find your device from [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS
 
 - **AnyKernel3** is flashable in TWRP recovery or Kernel Flasher app.
 
-- **Image** is the raw kernel file, which can be flashed in Kernel Flasher app.
+- **Image** is the raw kernel file, which cannot be directly flashed.
 
 ## License
 
