@@ -28,7 +28,7 @@ Forked from [Laomaoi/Action-KernelSU-Next](https://github.com/Laomaoi/Action-Ker
 
 - **AnyKernel3** is flashable in TWRP recovery or Kernel Flasher app.
 
-- **Image** is the raw kernel file.
+- **Image** is the raw kernel file, which can be flashed in Kernel Flasher app.
 
 ## License
 
